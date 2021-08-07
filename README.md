@@ -1,4 +1,4 @@
-#  Pseudo Character Driver :: Step By Step
+#  Embedded Linux Kernel and device drivers -> Pseudo Character Driver :: 99004377
 ## [step1](step1)
 Simple skeleton,registering device driver, checking major number and unregistering
 ## [step2](step2)
